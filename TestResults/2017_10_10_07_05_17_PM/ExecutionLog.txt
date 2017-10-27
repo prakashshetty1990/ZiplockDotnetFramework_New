@@ -1,0 +1,94 @@
+2017-10-10 19:05:17,634 [9] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\TestResults\2017_10_10_07_05_17_PM
+2017-10-10 19:05:17,643 [9] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\TestResults\2017_10_10_07_05_17_PM\ExecutionLog.txt
+2017-10-10 19:05:17,797 [9] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-10 19:05:26,701 [9] ERROR SWAUTCSharpFramework.Common - Unable to launch firefox browser
+2017-10-10 19:05:29,435 [9] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_01 ###########
+2017-10-10 19:05:29,526 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-10 19:05:29,653 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-10 19:05:29,696 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.clickOn(IWebElement we, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 98
+2017-10-10 19:05:29,737 [9] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_01 ###########
+2017-10-10 19:05:29,776 [9] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_02 ###########
+2017-10-10 19:05:29,856 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-10 19:05:30,013 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-10 19:05:30,056 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.clickOn(IWebElement we, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 98
+2017-10-10 19:05:30,088 [9] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_02 ###########
+2017-10-10 19:05:38,264 [9] ERROR SWAUTCSharpFramework.Common - Unable to launch firefox browser
+2017-10-10 19:05:40,988 [9] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_002_01 ###########
+2017-10-10 19:05:41,068 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-10 19:05:41,231 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-10 19:05:41,314 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.clickOn(IWebElement we, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 98
+2017-10-10 19:05:41,418 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 294
+2017-10-10 19:05:41,508 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 294
+2017-10-10 19:05:41,632 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 294
+2017-10-10 19:05:41,742 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 294
+2017-10-10 19:05:41,889 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-10 19:05:42,056 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-10 19:05:42,199 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 294
+2017-10-10 19:05:42,357 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 294
+2017-10-10 19:05:42,387 [9] ERROR SWAUTCSharpFramework.Page - Exception Caught System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.clickOn(IWebElement we, String elemName) in C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\PageMethods\Page.cs:line 98
+2017-10-10 19:05:42,405 [9] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_002_01 ###########
+2017-10-10 19:06:14,757 [9] INFO  SWAUTCSharpFramework.Common - Exceuting in Firefox browser
+2017-10-10 19:06:23,090 [9] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_003_01 ###########
+2017-10-10 19:06:23,576 [9] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-10 19:06:24,316 [9] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-10-10 19:06:26,948 [9] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-10 19:06:27,406 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Sydney
+2017-10-10 19:06:27,835 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Hotel Sunshine
+2017-10-10 19:06:28,216 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Deluxe
+2017-10-10 19:06:28,598 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 2 - Two
+2017-10-10 19:06:28,910 [9] INFO  SWAUTCSharpFramework.Page - Entered Text 43018.7960454861
+2017-10-10 19:06:29,156 [9] INFO  SWAUTCSharpFramework.Page - Entered Text 43023.7960454861
+2017-10-10 19:06:29,576 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 4 - Four
+2017-10-10 19:06:30,009 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 4 - Four
+2017-10-10 19:06:31,793 [9] INFO  SWAUTCSharpFramework.Page - Clicked on Search
+2017-10-10 19:06:32,245 [9] INFO  SWAUTCSharpFramework.Page - Clicked on Selected
+2017-10-10 19:06:32,969 [9] INFO  SWAUTCSharpFramework.Page - Clicked on Continue
+2017-10-10 19:06:32,970 [9] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_003_01 ###########
+2017-10-10 19:06:42,138 [9] INFO  SWAUTCSharpFramework.Common - Exceuting in Firefox browser
+2017-10-10 19:06:52,313 [9] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_004_01 ###########
+2017-10-10 19:06:54,862 [9] INFO  SWAUTCSharpFramework.Page - Clicked on ForgetPassword
+2017-10-10 19:06:57,111 [9] INFO  SWAUTCSharpFramework.Page - Entered Text g.nandini438@gmail.com
+2017-10-10 19:07:01,559 [9] INFO  SWAUTCSharpFramework.Page - Clicked on Submit
+2017-10-10 19:07:01,573 [9] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_004_01 ###########
+2017-10-10 19:07:20,360 [9] INFO  SWAUTCSharpFramework.Common - Exceuting in Firefox browser
+2017-10-10 19:08:52,866 [9] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_005_01 ###########
+2017-10-10 19:08:55,727 [9] INFO  SWAUTCSharpFramework.Page - Clicked on New Registration
+2017-10-10 19:08:58,973 [9] INFO  SWAUTCSharpFramework.Page - Entered Text Pramela123
+2017-10-10 19:09:01,448 [9] INFO  SWAUTCSharpFramework.Page - Entered Text Reset123
+2017-10-10 19:09:03,365 [9] INFO  SWAUTCSharpFramework.Page - Entered Text Reset123
+2017-10-10 19:09:03,867 [9] INFO  SWAUTCSharpFramework.Page - Entered Text G
+2017-10-10 19:09:04,188 [9] INFO  SWAUTCSharpFramework.Page - Entered Text nandinig@suntechnologies.com
+2017-10-10 19:09:04,460 [9] INFO  SWAUTCSharpFramework.Page - Clicked on Agree
+2017-10-10 19:09:05,006 [9] INFO  SWAUTCSharpFramework.Page - Clicked on Register
+2017-10-10 19:09:05,012 [9] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_005_01 ###########
+2017-10-10 19:09:41,065 [9] INFO  SWAUTCSharpFramework.Common - Exceuting in Firefox browser

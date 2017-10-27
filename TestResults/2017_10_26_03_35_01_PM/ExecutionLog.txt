@@ -1,0 +1,4 @@
+2017-10-26 15:35:01,875 [9] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\TestResults\2017_10_26_03_35_01_PM
+2017-10-26 15:35:01,887 [9] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\TestResults\2017_10_26_03_35_01_PM\ExecutionLog.txt
+2017-10-26 15:35:02,004 [9] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-26 15:35:31,862 [9] INFO  SWAUTCSharpFramework.Common - Exceuting in chrome browser

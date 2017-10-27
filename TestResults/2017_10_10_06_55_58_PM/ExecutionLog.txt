@@ -1,0 +1,5 @@
+2017-10-10 18:55:58,662 [9] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\TestResults\2017_10_10_06_55_58_PM
+2017-10-10 18:55:58,675 [9] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\TestResults\2017_10_10_06_55_58_PM\ExecutionLog.txt
+2017-10-10 18:55:58,968 [9] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-10 18:56:09,093 [9] INFO  SWAUTCSharpFramework.Common - Exceuting in Internet Explorer browser
+2017-10-10 18:56:15,840 [9] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_01 ###########

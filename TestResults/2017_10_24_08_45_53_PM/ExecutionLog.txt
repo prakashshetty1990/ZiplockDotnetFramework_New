@@ -1,0 +1,16 @@
+2017-10-24 20:45:53,498 [1] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\TestResults\2017_10_24_08_45_53_PM
+2017-10-24 20:45:53,517 [1] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\TestResults\2017_10_24_08_45_53_PM\ExecutionLog.txt
+2017-10-24 20:45:53,637 [1] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-24 20:46:14,505 [1] INFO  SWAUTCSharpFramework.Common - Exceuting in Internet Explorer browser
+2017-10-24 20:46:23,023 [1] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_01 ###########
+2017-10-24 20:46:25,225 [1] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-24 20:46:26,620 [1] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-10-24 20:46:27,714 [1] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-24 20:46:30,751 [1] INFO  SWAUTCSharpFramework.Page - Clicked on Logout Link
+2017-10-24 20:46:31,512 [1] INFO  SWAUTCSharpFramework.Page - Clicked on Login Again Link
+2017-10-24 20:46:31,594 [1] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_01 ###########
+2017-10-24 20:46:31,609 [1] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_02 ###########
+2017-10-24 20:46:32,615 [1] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-24 20:46:33,844 [1] INFO  SWAUTCSharpFramework.Page - Entered Text wrongPassword
+2017-10-24 20:46:34,552 [1] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-24 20:47:38,215 [1] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_02 ###########

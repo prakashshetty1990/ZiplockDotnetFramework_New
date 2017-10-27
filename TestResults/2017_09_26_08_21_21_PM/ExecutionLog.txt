@@ -1,0 +1,82 @@
+2017-09-26 20:21:21,419 [10] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\TestResults\2017_09_26_08_21_21_PM
+2017-09-26 20:21:21,439 [10] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\Desktop\Finalc#Framework\ZiplockDotnetFramework\TestResults\2017_09_26_08_21_21_PM\ExecutionLog.txt
+2017-09-26 20:21:22,354 [10] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-09-26 20:21:37,250 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in Internet Explorer browser
+2017-09-26 20:21:46,381 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_01 ###########
+2017-09-26 20:21:49,921 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-09-26 20:21:52,829 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-09-26 20:21:53,813 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-09-26 20:21:56,656 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Logout Link
+2017-09-26 20:21:57,442 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Login Again Link
+2017-09-26 20:21:57,505 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_01 ###########
+2017-09-26 20:21:57,512 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_02 ###########
+2017-09-26 20:21:58,249 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-09-26 20:21:59,193 [10] INFO  SWAUTCSharpFramework.Page - Entered Text wrongPassword
+2017-09-26 20:21:59,786 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-09-26 20:23:08,092 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_02 ###########
+2017-09-26 20:23:17,873 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in Internet Explorer browser
+2017-09-26 20:23:23,086 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_002_01 ###########
+2017-09-26 20:23:26,265 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-09-26 20:23:28,920 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-09-26 20:23:30,241 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-09-26 20:23:32,879 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Sydney
+2017-09-26 20:23:34,852 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Hotel Sunshine
+2017-09-26 20:23:35,558 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Deluxe
+2017-09-26 20:23:36,748 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 2 - Two
+2017-09-26 20:23:38,360 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 43004.8495385417
+2017-09-26 20:23:39,621 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 43009.8495385417
+2017-09-26 20:23:42,734 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 4 - Four
+2017-09-26 20:23:43,613 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 4 - Four
+2017-09-26 20:23:44,752 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Search
+2017-09-26 20:23:45,035 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_002_01 ###########
+2017-09-26 20:23:57,462 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in Internet Explorer browser
+2017-09-26 20:24:02,388 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_003_01 ###########
+2017-09-26 20:24:03,308 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-09-26 20:24:04,136 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-09-26 20:24:04,733 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-09-26 20:24:06,427 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Sydney
+2017-09-26 20:24:07,111 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Hotel Sunshine
+2017-09-26 20:24:07,837 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Deluxe
+2017-09-26 20:24:08,476 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 2 - Two
+2017-09-26 20:24:09,390 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 43004.8500001157
+2017-09-26 20:24:10,522 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 43009.8500001157
+2017-09-26 20:24:11,206 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 4 - Four
+2017-09-26 20:24:12,198 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 4 - Four
+2017-09-26 20:24:12,678 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Search
+2017-09-26 20:24:14,085 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Selected
+2017-09-26 20:24:15,133 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Continue
+2017-09-26 20:24:15,133 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_003_01 ###########
+2017-09-26 20:24:32,152 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in Internet Explorer browser
+2017-09-26 20:24:36,940 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_004_01 ###########
+2017-09-26 20:24:38,427 [10] INFO  SWAUTCSharpFramework.Page - Clicked on ForgetPassword
+2017-09-26 20:24:41,636 [10] INFO  SWAUTCSharpFramework.Page - Entered Text g.nandini438@gmail.com
+2017-09-26 20:24:42,750 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Submit
+2017-09-26 20:24:42,823 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_004_01 ###########
+2017-09-26 20:25:07,209 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in Internet Explorer browser
+2017-09-26 20:25:12,346 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_005_01 ###########
+2017-09-26 20:25:14,005 [10] INFO  SWAUTCSharpFramework.Page - Clicked on New Registration
+2017-09-26 20:25:18,063 [10] INFO  SWAUTCSharpFramework.Page - Entered Text Pramela123
+2017-09-26 20:25:19,354 [10] INFO  SWAUTCSharpFramework.Page - Entered Text Reset123
+2017-09-26 20:25:20,554 [10] INFO  SWAUTCSharpFramework.Page - Entered Text Reset123
+2017-09-26 20:25:21,755 [10] INFO  SWAUTCSharpFramework.Page - Entered Text G
+2017-09-26 20:25:22,997 [10] INFO  SWAUTCSharpFramework.Page - Entered Text nandinig@suntechnologies.com
+2017-09-26 20:25:23,663 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Agree
+2017-09-26 20:25:24,392 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Register
+2017-09-26 20:25:24,473 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_005_01 ###########
+2017-09-26 20:25:42,068 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in Internet Explorer browser
+2017-09-26 20:25:46,816 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_006_01 ###########
+2017-09-26 20:25:46,959 [10] INFO  WebCalculator - First number for substraction on 500
+2017-09-26 20:25:46,977 [10] INFO  WebCalculator - Second number for substraction on 250
+2017-09-26 20:25:48,007 [10] INFO  WebCalculator - Result for Substraction is 250
+2017-09-26 20:25:48,022 [10] INFO  WebCalculator - First number for Addition on 500
+2017-09-26 20:25:48,040 [10] INFO  WebCalculator - Second number for Addition on 250
+2017-09-26 20:25:48,305 [10] INFO  WebCalculator - Result for Addition is 750
+2017-09-26 20:25:48,305 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_006_01 ###########
+2017-09-26 20:25:48,383 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_006_02 ###########
+2017-09-26 20:25:48,396 [10] INFO  WebCalculator - First number for substraction on 780
+2017-09-26 20:25:48,412 [10] INFO  WebCalculator - Second number for substraction on 50
+2017-09-26 20:25:48,774 [10] INFO  WebCalculator - Result for Substraction is 730
+2017-09-26 20:25:48,819 [10] INFO  WebCalculator - First number for Addition on 780
+2017-09-26 20:25:48,847 [10] INFO  WebCalculator - Second number for Addition on 50
+2017-09-26 20:25:49,137 [10] INFO  WebCalculator - Result for Addition is 830
+2017-09-26 20:25:49,137 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_006_02 ###########
