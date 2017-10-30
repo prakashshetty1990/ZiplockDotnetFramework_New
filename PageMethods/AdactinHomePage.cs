@@ -47,7 +47,7 @@ namespace SWAUTCSharpFramework
             try
             {
                 
-                new WebDriverWait(browser, TimeSpan.FromSeconds(20)).Until(ExpectedConditions.ElementExists((By.XPath("//input[@id='login']"))));
+                new WebDriverWait(browser, TimeSpan.FromSeconds(5)).Until(ExpectedConditions.ElementExists((By.XPath("//input[@id='login']"))));
             }
             catch (Exception e)
             {

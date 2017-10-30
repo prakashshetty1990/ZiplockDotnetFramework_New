@@ -1,0 +1,54 @@
+2017-10-30 18:16:02,411 [10] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\TestResults\2017_10_30_06_16_02_PM
+2017-10-30 18:16:02,424 [10] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\TestResults\2017_10_30_06_16_02_PM\ExecutionLog.txt
+2017-10-30 18:16:03,653 [10] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-30 18:16:13,802 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in chrome browser
+2017-10-30 18:16:21,116 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_01 ###########
+2017-10-30 18:16:21,522 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-30 18:16:21,884 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-10-30 18:16:23,689 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-30 18:16:25,539 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Logout Link
+2017-10-30 18:16:26,420 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Login Again Link
+2017-10-30 18:16:26,454 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_01 ###########
+2017-10-30 18:16:26,462 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_02 ###########
+2017-10-30 18:16:26,663 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-30 18:16:26,879 [10] INFO  SWAUTCSharpFramework.Page - Entered Text wrongPassword
+2017-10-30 18:16:28,549 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-30 18:16:49,615 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_02 ###########
+2017-10-30 18:16:57,050 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in chrome browser
+2017-10-30 18:17:04,896 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_002_01 ###########
+2017-10-30 18:17:05,181 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-30 18:17:05,400 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-10-30 18:17:07,760 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-30 18:17:08,182 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Sydney
+2017-10-30 18:17:08,445 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Hotel Sunshine
+2017-10-30 18:17:08,726 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Deluxe
+2017-10-30 18:17:08,971 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 2 - Two
+2017-10-30 18:17:09,352 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 02-12-2017
+2017-10-30 18:17:09,733 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 04-12-2017
+2017-10-30 18:17:20,013 [10] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown OpenQA.Selenium.NoSuchElementException: Cannot locate element with text: 2-Two
+   at OpenQA.Selenium.Support.UI.SelectElement.SelectByText(String text)
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\PageMethods\Page.cs:line 332
+2017-10-30 18:17:30,743 [10] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown OpenQA.Selenium.NoSuchElementException: Cannot locate element with text: 2-Two
+   at OpenQA.Selenium.Support.UI.SelectElement.SelectByText(String text)
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\PageMethods\Page.cs:line 332
+2017-10-30 18:17:32,546 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Search
+2017-10-30 18:17:33,043 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_002_01 ###########
+2017-10-30 18:17:40,209 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in chrome browser
+2017-10-30 18:17:48,450 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_003_01 ###########
+2017-10-30 18:17:48,827 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-30 18:17:49,183 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-10-30 18:17:51,690 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-30 18:17:52,121 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Sydney
+2017-10-30 18:17:52,363 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Hotel Sunshine
+2017-10-30 18:17:52,613 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Deluxe
+2017-10-30 18:17:52,870 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 2 - Two
+2017-10-30 18:17:53,300 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 02-12-2017
+2017-10-30 18:17:53,663 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 04-12-2017
+2017-10-30 18:18:03,898 [10] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown OpenQA.Selenium.NoSuchElementException: Cannot locate element with text: 2-Two
+   at OpenQA.Selenium.Support.UI.SelectElement.SelectByText(String text)
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\PageMethods\Page.cs:line 332
+2017-10-30 18:18:14,676 [10] ERROR SWAUTCSharpFramework.Page - Exception Caught while selecting text from dropdown OpenQA.Selenium.NoSuchElementException: Cannot locate element with text: 2-Two
+   at OpenQA.Selenium.Support.UI.SelectElement.SelectByText(String text)
+   at SWAUTCSharpFramework.Page.selectByVisisbleText(IWebElement we, String strElemName, String strVisibleText) in C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\PageMethods\Page.cs:line 332
+2017-10-30 18:18:16,547 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Search
+2017-10-30 18:18:17,287 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Selected

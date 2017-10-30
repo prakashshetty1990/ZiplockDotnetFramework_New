@@ -93,3 +93,14 @@ C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\bin\Debug\WebDri
 C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\bin\Debug\DatabaseConnections.dll
 C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\bin\Debug\OleDbToSQLiteInterceptor.dll
 C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\bin\Debug\DatabaseConnections.OleDb.dll
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\bin\Debug\chromedriver-license.txt
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\bin\Debug\SeleniumFirst.exe.config
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\bin\Debug\SeleniumFirst.exe
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\bin\Debug\SeleniumFirst.pdb
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\bin\Debug\DatabaseConnections.dll
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\bin\Debug\DatabaseConnections.OleDb.dll
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\bin\Debug\OleDbToSQLiteInterceptor.dll
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\bin\Debug\NUnit.System.Linq.dll
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\obj\Debug\SWAUTCSharpFramework.csprojResolveAssemblyReference.cache
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\obj\Debug\SeleniumFirst.exe
+C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\obj\Debug\SeleniumFirst.pdb

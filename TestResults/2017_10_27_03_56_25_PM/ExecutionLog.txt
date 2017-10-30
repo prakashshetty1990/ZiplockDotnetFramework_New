@@ -1,0 +1,16 @@
+2017-10-27 15:56:25,492 [1] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\.jenkins\workspace\SelCsharpFramework\TestResults\2017_10_27_03_56_25_PM
+2017-10-27 15:56:25,509 [1] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\.jenkins\workspace\SelCsharpFramework\TestResults\2017_10_27_03_56_25_PM\ExecutionLog.txt
+2017-10-27 15:56:25,598 [1] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-27 15:56:34,841 [1] INFO  SWAUTCSharpFramework.Common - Exceuting in chrome browser
+2017-10-27 15:56:43,566 [1] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_01 ###########
+2017-10-27 15:56:43,889 [1] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-27 15:56:44,126 [1] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-10-27 15:56:46,423 [1] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-27 15:56:49,382 [1] INFO  SWAUTCSharpFramework.Page - Clicked on Logout Link
+2017-10-27 15:56:50,042 [1] INFO  SWAUTCSharpFramework.Page - Clicked on Login Again Link
+2017-10-27 15:56:50,064 [1] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_01 ###########
+2017-10-27 15:56:50,091 [1] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_02 ###########
+2017-10-27 15:56:50,336 [1] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-27 15:56:50,563 [1] INFO  SWAUTCSharpFramework.Page - Entered Text wrongPassword
+2017-10-27 15:56:51,814 [1] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-27 15:57:54,874 [1] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_02 ###########

@@ -191,26 +191,16 @@
     <None Include="packages\NUnit.Runners.3.7.0\NUnit.Runners.3.7.0.nupkg" />
     <None Include="packages\NUnitTestAdapter.2.1.1\NUnitTestAdapter.2.1.1.nupkg" />
     <None Include="packages\Screenshots.1.0.0\Screenshots.1.0.0.nupkg" />
-    <None Include="packages\Selenium.Chrome.WebDriver.2.30\build\Selenium.Chrome.WebDriver.targets" />
-    <None Include="packages\Selenium.Chrome.WebDriver.2.30\Selenium.Chrome.WebDriver.2.30.nupkg" />
-    <None Include="packages\Selenium.Firefox.WebDriver.0.19.0\build\Selenium.Firefox.WebDriver.targets" />
-    <None Include="packages\Selenium.Firefox.WebDriver.0.19.0\Selenium.Firefox.WebDriver.0.19.0.nupkg" />
     <None Include="packages\Selenium.InternetExplorer.WebDriver.3.4\build\Selenium.InternetExplorer.WebDriver.targets" />
-    <None Include="packages\Selenium.InternetExplorer.WebDriver.3.4\Selenium.InternetExplorer.WebDriver.3.4.nupkg" />
     <None Include="packages\Selenium.Support.3.4.0\Selenium.Support.3.4.0.nupkg" />
     <None Include="packages\Selenium.WebDriver.3.4.0\Selenium.WebDriver.3.4.0.nupkg" />
-    <None Include="packages\Selenium.WebDriver.ChromeDriver.2.31.0\build\Selenium.WebDriver.ChromeDriver.targets" />
-    <None Include="packages\Selenium.WebDriver.ChromeDriver.2.31.0\driver\linux64\chromedriver" />
-    <None Include="packages\Selenium.WebDriver.ChromeDriver.2.31.0\driver\mac64\chromedriver" />
-    <None Include="packages\Selenium.WebDriver.ChromeDriver.2.31.0\Selenium.WebDriver.ChromeDriver.2.31.0.nupkg" />
     <None Include="packages\Selenium.WebDriver.IEDriver.3.4.0\build\Selenium.WebDriver.IEDriver.targets" />
-    <None Include="packages\Selenium.WebDriver.IEDriver.3.4.0\Selenium.WebDriver.IEDriver.3.4.0.nupkg" />
     <None Include="packages\Selenium.WebDriver.WaitExtensions.1.0.0\Selenium.WebDriver.WaitExtensions.1.0.0.nupkg" />
     <None Include="packages\SharpZipLib.0.86.0\SharpZipLib.0.86.0.nupkg" />
-    <None Include="packages\WebDriver.ChromeDriver.26.14.313457.1\WebDriver.ChromeDriver.26.14.313457.1.nupkg" />
-    <None Include="packages\WebDriver.ChromeDriver.win32.2.30.0.0\tools\install.ps1" />
-    <None Include="packages\WebDriver.ChromeDriver.win32.2.30.0.0\tools\uninstall.ps1" />
-    <None Include="packages\WebDriver.ChromeDriver.win32.2.30.0.0\WebDriver.ChromeDriver.win32.2.30.0.0.nupkg" />
+    <None Include="packages\WebDriver.ChromeDriver.win32.2.31.0.0\tools\install.ps1" />
+    <None Include="packages\WebDriver.ChromeDriver.win32.2.31.0.0\tools\uninstall.ps1" />
+    <None Include="packages\WebDriver.ChromeDriver.win32.2.31.0.0\WebDriver.ChromeDriver.win32.2.31.0.0.nupkg" />
+    <None Include="packages\WebDriver.GeckoDriver.0.19.0\WebDriver.GeckoDriver.0.19.0.nupkg" />
     <None Include="packages\WebDriverChromeDriver.2.10\tools\install.ps1" />
     <None Include="packages\WebDriverChromeDriver.2.10\tools\uninstall.ps1" />
     <None Include="packages\WebDriverChromeDriver.2.10\WebDriverChromeDriver.2.10.nupkg" />
@@ -220,11 +210,8 @@
     </None>
     <None Include="run.bat" />
     <None Include="TestData\TestCaseSetting.xls" />
-    <None Include="TestData\TestCaseSettings.xls" />
     <None Include="TestData\TestConfiguration.xls" />
-    <None Include="TestData\TestConfiguration.xlsx" />
     <None Include="TestData\TestData.xls" />
-    <None Include="TestData\TestData.xlsx" />
     <None Include="Web References\MyFirstWebServiceReference\calculator.wsdl" />
     <None Include="Web References\MyFirstWebServiceReference\Reference.map">
       <Generator>MSDiscoCodeGenerator</Generator>
@@ -371,9 +358,7 @@
     <Content Include="packages\NUnitTestAdapter.2.1.1\tools\nunit.core.interfaces.dll" />
     <Content Include="packages\NUnitTestAdapter.2.1.1\tools\nunit.util.dll" />
     <Content Include="packages\NUnitTestAdapter.2.1.1\tools\NUnit.VisualStudio.TestAdapter.dll" />
-    <Content Include="packages\Selenium.Chrome.WebDriver.2.30\driver\chromedriver.exe" />
     <Content Include="packages\Selenium.Firefox.WebDriver.0.19.0\driver\geckodriver.exe" />
-    <Content Include="packages\Selenium.InternetExplorer.WebDriver.3.4\driver\IEDriverServer.exe" />
     <Content Include="packages\Selenium.Support.3.4.0\lib\net35\WebDriver.Support.dll" />
     <Content Include="packages\Selenium.Support.3.4.0\lib\net35\WebDriver.Support.xml" />
     <Content Include="packages\Selenium.Support.3.4.0\lib\net40\WebDriver.Support.dll" />
@@ -382,15 +367,11 @@
     <Content Include="packages\Selenium.WebDriver.3.4.0\lib\net35\WebDriver.xml" />
     <Content Include="packages\Selenium.WebDriver.3.4.0\lib\net40\WebDriver.dll" />
     <Content Include="packages\Selenium.WebDriver.3.4.0\lib\net40\WebDriver.xml" />
-    <Content Include="packages\Selenium.WebDriver.ChromeDriver.2.31.0\driver\win32\chromedriver.exe" />
-    <Content Include="packages\Selenium.WebDriver.IEDriver.3.4.0\driver\IEDriverServer.exe" />
     <Content Include="packages\Selenium.WebDriver.WaitExtensions.1.0.0\lib\Selenium.WebDriver.WaitExtensions.dll" />
     <Content Include="packages\SharpZipLib.0.86.0\lib\11\ICSharpCode.SharpZipLib.dll" />
     <Content Include="packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll" />
     <Content Include="packages\SharpZipLib.0.86.0\lib\SL3\SharpZipLib.Silverlight3.dll" />
     <Content Include="packages\SharpZipLib.0.86.0\lib\SL4\SharpZipLib.Silverlight4.dll" />
-    <Content Include="packages\WebDriver.ChromeDriver.26.14.313457.1\tools\ChromeDriver.exe" />
-    <Content Include="packages\WebDriver.ChromeDriver.win32.2.30.0.0\content\chromedriver.exe" />
     <Content Include="packages\WebDriver.ChromeDriver.win32.2.31.0.0\content\chromedriver.exe" />
     <Content Include="packages\WebDriverChromeDriver.2.10\content\chromedriver-license.txt" />
     <Content Include="packages\WebDriverChromeDriver.2.10\tools\chromedriver.exe" />
@@ -430,6 +411,9 @@
     <Folder Include="bin\Release\" />
     <Folder Include="Nunit\NUnitTestAdapter.2.0.0\tools\" />
     <Folder Include="obj\Release\TempPE\" />
+    <Folder Include="packages\Selenium.Firefox.WebDriver.0.19.0\build\" />
+    <Folder Include="packages\Selenium.InternetExplorer.WebDriver.3.4\driver\" />
+    <Folder Include="packages\Selenium.WebDriver.IEDriver.3.4.0\driver\" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
@@ -455,19 +439,19 @@
     <PropertyGroup>
       <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
     </PropertyGroup>
-    <Error Condition="!Exists('packages\Selenium.WebDriver.ChromeDriver.2.31.0\build\Selenium.WebDriver.ChromeDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Selenium.WebDriver.ChromeDriver.2.31.0\build\Selenium.WebDriver.ChromeDriver.targets'))" />
     <Error Condition="!Exists('packages\Selenium.WebDriver.IEDriver.3.5.0\build\Selenium.WebDriver.IEDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Selenium.WebDriver.IEDriver.3.5.0\build\Selenium.WebDriver.IEDriver.targets'))" />
     <Error Condition="!Exists('packages\Selenium.Chrome.WebDriver.2.32\build\Selenium.Chrome.WebDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Selenium.Chrome.WebDriver.2.32\build\Selenium.Chrome.WebDriver.targets'))" />
     <Error Condition="!Exists('packages\Selenium.InternetExplorer.WebDriver.3.4\build\Selenium.InternetExplorer.WebDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Selenium.InternetExplorer.WebDriver.3.4\build\Selenium.InternetExplorer.WebDriver.targets'))" />
     <Error Condition="!Exists('packages\Selenium.WebDriver.GeckoDriver.Win64.0.19.0\build\Selenium.WebDriver.GeckoDriver.Win64.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Selenium.WebDriver.GeckoDriver.Win64.0.19.0\build\Selenium.WebDriver.GeckoDriver.Win64.targets'))" />
     <Error Condition="!Exists('packages\Selenium.Firefox.WebDriver.0.19.0\build\Selenium.Firefox.WebDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Selenium.Firefox.WebDriver.0.19.0\build\Selenium.Firefox.WebDriver.targets'))" />
+    <Error Condition="!Exists('packages\Selenium.WebDriver.ChromeDriver.2.33.0\build\Selenium.WebDriver.ChromeDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Selenium.WebDriver.ChromeDriver.2.33.0\build\Selenium.WebDriver.ChromeDriver.targets'))" />
   </Target>
-  <Import Project="packages\Selenium.WebDriver.ChromeDriver.2.31.0\build\Selenium.WebDriver.ChromeDriver.targets" Condition="Exists('packages\Selenium.WebDriver.ChromeDriver.2.31.0\build\Selenium.WebDriver.ChromeDriver.targets')" />
   <Import Project="packages\Selenium.WebDriver.IEDriver.3.5.0\build\Selenium.WebDriver.IEDriver.targets" Condition="Exists('packages\Selenium.WebDriver.IEDriver.3.5.0\build\Selenium.WebDriver.IEDriver.targets')" />
   <Import Project="packages\Selenium.Chrome.WebDriver.2.32\build\Selenium.Chrome.WebDriver.targets" Condition="Exists('packages\Selenium.Chrome.WebDriver.2.32\build\Selenium.Chrome.WebDriver.targets')" />
   <Import Project="packages\Selenium.InternetExplorer.WebDriver.3.4\build\Selenium.InternetExplorer.WebDriver.targets" Condition="Exists('packages\Selenium.InternetExplorer.WebDriver.3.4\build\Selenium.InternetExplorer.WebDriver.targets')" />
   <Import Project="packages\Selenium.WebDriver.GeckoDriver.Win64.0.19.0\build\Selenium.WebDriver.GeckoDriver.Win64.targets" Condition="Exists('packages\Selenium.WebDriver.GeckoDriver.Win64.0.19.0\build\Selenium.WebDriver.GeckoDriver.Win64.targets')" />
   <Import Project="packages\Selenium.Firefox.WebDriver.0.19.0\build\Selenium.Firefox.WebDriver.targets" Condition="Exists('packages\Selenium.Firefox.WebDriver.0.19.0\build\Selenium.Firefox.WebDriver.targets')" />
+  <Import Project="packages\Selenium.WebDriver.ChromeDriver.2.33.0\build\Selenium.WebDriver.ChromeDriver.targets" Condition="Exists('packages\Selenium.WebDriver.ChromeDriver.2.33.0\build\Selenium.WebDriver.ChromeDriver.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">

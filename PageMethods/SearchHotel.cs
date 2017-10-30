@@ -103,7 +103,7 @@ namespace SWAUTCSharpFramework
             selectByVisisbleText(weHotels, "Hotel", Common.retrieve("Hotel"));
             selectByVisisbleText(weRoomtype, "RoomType", Common.retrieve("RoomType"));
             selectByVisisbleText(weRoomnos, "NumRooms", Common.retrieve("RoomNos"));
-            enterText(Checkindate, Common.retrieve("CheckInDate"),"Check In Date");
+            enterText(Checkindate, (Common.retrieve("CheckInDate")),"Check In Date");
             enterText(Checkoutdate, Common.retrieve("CheckOutDate"),"Check Out Date");
             selectByVisisbleText(weAdults, "Adults", Common.retrieve("Adults"));
             selectByVisisbleText(weChildren, "Children", Common.retrieve("Children"));

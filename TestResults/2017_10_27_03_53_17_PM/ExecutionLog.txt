@@ -1,0 +1,26 @@
+2017-10-27 15:53:17,365 [1] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\.jenkins\workspace\SelCsharpFramework\TestResults\2017_10_27_03_53_17_PM
+2017-10-27 15:53:17,383 [1] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\.jenkins\workspace\SelCsharpFramework\TestResults\2017_10_27_03_53_17_PM\ExecutionLog.txt
+2017-10-27 15:53:17,473 [1] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-27 15:53:22,241 [1] ERROR SWAUTCSharpFramework.Common - Unable to launch chrome browser
+2017-10-27 15:53:24,662 [1] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_01 ###########
+2017-10-27 15:53:24,703 [1] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-27 15:53:24,742 [1] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-27 15:53:24,748 [1] ERROR SWAUTCSharpFramework.Page - Exception Caught System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.clickOn(IWebElement we, String elemName) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 98
+2017-10-27 15:53:24,755 [1] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_01 ###########
+2017-10-27 15:53:24,775 [1] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_02 ###########
+2017-10-27 15:53:24,811 [1] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-27 15:53:24,850 [1] ERROR SWAUTCSharpFramework.Page - Exception Caught while entering text  System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.enterText(IWebElement we, String text, String elemName) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 128
+2017-10-27 15:53:24,856 [1] ERROR SWAUTCSharpFramework.Page - Exception Caught System.NullReferenceException: Object reference not set to an instance of an object.
+   at SWAUTCSharpFramework.Page.ElementIsPresent(IWebElement element) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 75
+   at SWAUTCSharpFramework.Page.clickOn(IWebElement we, String elemName) in C:\Users\nandinig\Desktop\FinalFramework\ZiplockDotnetFramework\PageMethods\Page.cs:line 98
+2017-10-27 15:53:24,862 [1] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_02 ###########

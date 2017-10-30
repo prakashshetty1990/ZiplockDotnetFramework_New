@@ -1,0 +1,27 @@
+2017-10-30 16:44:24,120 [10] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\TestResults\2017_10_30_04_44_24_PM
+2017-10-30 16:44:24,133 [10] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\TestResults\2017_10_30_04_44_24_PM\ExecutionLog.txt
+2017-10-30 16:44:24,497 [10] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-30 16:45:26,492 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in chrome browser
+2017-10-30 16:45:59,427 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_01 ###########
+2017-10-30 16:46:02,359 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-30 16:46:02,661 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-10-30 16:46:13,765 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-30 16:46:18,907 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Logout Link
+2017-10-30 16:46:19,871 [10] INFO  SWAUTCSharpFramework.Page - Clicked on Login Again Link
+2017-10-30 16:46:19,889 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_01 ###########
+2017-10-30 16:46:19,914 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_001_02 ###########
+2017-10-30 16:46:20,133 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-30 16:46:20,388 [10] INFO  SWAUTCSharpFramework.Page - Entered Text wrongPassword
+2017-10-30 16:46:21,695 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-30 16:46:42,755 [10] INFO  SWAUTCSharpFramework.Common - ########### End of Test Case Data Set: TC_001_02 ###########
+2017-10-30 16:46:57,005 [10] INFO  SWAUTCSharpFramework.Common - Exceuting in chrome browser
+2017-10-30 16:47:08,925 [10] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_002_01 ###########
+2017-10-30 16:47:09,804 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-30 16:47:10,421 [10] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-10-30 16:47:15,332 [10] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-30 16:47:16,041 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Sydney
+2017-10-30 16:47:16,501 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Hotel Sunshine
+2017-10-30 16:47:16,818 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Deluxe
+2017-10-30 16:47:17,108 [10] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 2 - Two
+2017-10-30 16:47:18,116 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 43032.745830787
+2017-10-30 16:47:18,542 [10] INFO  SWAUTCSharpFramework.Page - Entered Text 43037.7458309028

@@ -1,0 +1,4 @@
+2017-10-30 18:11:56,265 [9] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\TestResults\2017_10_30_06_11_56_PM
+2017-10-30 18:11:56,278 [9] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\TestResults\2017_10_30_06_11_56_PM\ExecutionLog.txt
+2017-10-30 18:11:56,521 [9] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-30 18:12:05,389 [9] INFO  SWAUTCSharpFramework.Common - Exceuting in chrome browser

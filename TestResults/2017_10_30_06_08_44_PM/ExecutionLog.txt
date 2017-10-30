@@ -1,0 +1,14 @@
+2017-10-30 18:08:44,624 [9] INFO  SWAUTCSharpFramework.Common - Test Output Directory creation successful C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\TestResults\2017_10_30_06_08_44_PM
+2017-10-30 18:08:44,749 [9] INFO  SWAUTCSharpFramework.Common - Log File creation successful C:\Users\nandinig\Desktop\FinalFramework\SelCsharpFramework\TestResults\2017_10_30_06_08_44_PM\ExecutionLog.txt
+2017-10-30 18:08:45,272 [9] INFO  SWAUTCSharpFramework.LaunchScript - Log File Started
+2017-10-30 18:08:57,773 [9] INFO  SWAUTCSharpFramework.Common - Exceuting in chrome browser
+2017-10-30 18:09:05,717 [9] INFO  SWAUTCSharpFramework.Common - ########### Start of Test Case Data Set: TC_002_01 ###########
+2017-10-30 18:09:06,169 [9] INFO  SWAUTCSharpFramework.Page - Entered Text prakashs
+2017-10-30 18:09:06,498 [9] INFO  SWAUTCSharpFramework.Page - Entered Text prakash
+2017-10-30 18:09:09,848 [9] INFO  SWAUTCSharpFramework.Page - Clicked on login
+2017-10-30 18:09:10,216 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Sydney
+2017-10-30 18:09:10,487 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Hotel Sunshine
+2017-10-30 18:09:10,733 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is Deluxe
+2017-10-30 18:09:10,931 [9] INFO  SWAUTCSharpFramework.Page - Selected text from dropdown is 2 - Two
+2017-10-30 18:09:11,390 [9] INFO  SWAUTCSharpFramework.Page - Entered Text 02-12-2017
+2017-10-30 18:09:11,672 [9] INFO  SWAUTCSharpFramework.Page - Entered Text 04-12-2017

@@ -148,7 +148,41 @@ namespace SWAUTCSharpFramework
                 return false;
             }
         }
-
+        /***
+   * Method to enter text in a textbox
+   * @param : WebElement - Textbox
+   * @param : Text to be entered
+   * @return :
+   ***/
+        public bool enterdate(IWebElement we, string text, String elemName)
+        {
+            try
+            {
+                waitForIsClickable(we);
+                if (ElementIsPresent(we))
+                {
+                    we.Clear();
+                    HighLightElement(we);
+                    we.SendKeys(text);
+                    Common.testStepPassed("Entered  " + elemName + " -> " + text);
+                    log.Info("Entered Text " + text);
+                    //TakeElementScreenshot( we);
+                    return true;
+                }
+                else
+                {
+                    Common.testStepFailed("Element is not displayed, Unable to enter text->" + text);
+                    log.Error("Unable to enter text " + text);
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                log.Error("Exception Caught while entering text  " + ex);
+                Common.testStepFailed("Unable to enter text in the text field->" + text);
+                return false;
+            }
+        }
         public void jsmoveToElement(IWebElement elem)
         {
             try
